@@ -19,7 +19,7 @@
 
    - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
    - 🔗 **APIs REST**, **Git**  
-   - 🛢️ **Relational Databases**, **Microsoft Access**, **SQLite**, **Adobe Photoshop**
+   - 🛢️ **Database Design and Development**, **WordPress**, **Microsoft Access**, **SQLite**, **Adobe Photoshop**
 
 🖥️ **Front-end**:  
    - 🌐 **HTML**, **CSS**, **JavaScript**, **TypeScript**
