@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">🚀 João Vitor | Full Stack Developer</h1>
 
-<!--
-**joaoeliazar/joaoeliazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Student of <strong>Computer Programming and Analysis</strong> at <strong>Fanshawe College</strong> <br>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🇨🇦 <em>Fanshawe College</em> (London, ON) <br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+🔥 **Backend**:  
+   - 🔧 **Java**, **C**, **C++**, **SQL Server**, **PHP**
+
+🚀 **Frameworks & Tools**:
+
+   - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
+   - 🔗 **APIs REST**, **Git**  
+   - 🛢️ **Relational Databases**, **Microsoft Access**, **SQLite**, **Adobe Photoshop**
+
+🖥️ **Front-end**:  
+   - 🌐 **HTML**, **CSS**, **JavaScript**, **TypeScript**
+
+🌎 **Languages**:  
+   - 🇧🇷 **Portuguese** (Native)  
+   - 🇺🇸 **English** (Fluent)  
+   - 🇪🇸 **Spanish** (Intermediate)  
+
+---
+
+💡 **Seeking for new challenges!**  
