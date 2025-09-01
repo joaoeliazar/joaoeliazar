@@ -1,7 +1,7 @@
 <h1 align="center">🚀 João Vitor | Full Stack Developer</h1>
 
 <p align="center">
-  🎓 Student of <strong>Computer Science</strong> at <strong>Valencia College</strong> seeking University of Central Florida <br>
+  🎓 Student of <strong>Computer Science</strong> at <strong>Valencia College</strong> seeking <strong>University of Central Florida</strong>strong> <br>
 </p>
 
 <p align="center">
