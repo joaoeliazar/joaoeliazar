@@ -1,11 +1,12 @@
 <h1 align="center">🚀 João Vitor | Full Stack Developer</h1>
 
 <p align="center">
-  🎓 Student of <strong>Computer Programming and Analysis</strong> at <strong>Fanshawe College</strong> <br>
+  🎓 Student of <strong>Computer Science</strong> at <strong>Valencia College</strong> seeking University of Central Florida <br>
 </p>
 
 <p align="center">
-  🇨🇦 <em>Fanshawe College</em> (London, ON) <br>
+  🇨🇦 <em>Fanshawe College</em> (London, ON), 2024 - 2025 <br>
+  🇺🇸 <em>Valencia College</em> (Orlando, FL), 2025 - Present <br>
 </p>
 
 ---
