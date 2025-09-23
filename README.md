@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack  
 
-🔥 **Backend**:  
+🔥 **Back-end**:  
    - 🔧 **Java**, **C**, **C++**, **SQL Server**, **PHP**
 
 🚀 **Frameworks & Tools**:
