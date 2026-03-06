@@ -1,41 +1,46 @@
-<h1 align="center">🚀 João Vitor | Full Stack Developer</h1>
+<h1 align="center">João Vitor Eliazar | CS Student</h1>
 
 <p align="center">
-  🎓 Student of <strong>Computer Science</strong> at <strong>Valencia College</strong> seeking <strong>University of Central Florida</strong> <br>
+  Computer Science student focused on Backend Development and Cybersecurity<br>
 </p>
 
 <p align="center">
-  🇨🇦 <em>Fanshawe College</em> (London, ON), 2024 - 2025 <br>
-  🇺🇸 <em>Valencia College</em> (Orlando, FL), 2025 - Present <br>
+  <em>Fanshawe College</em> (London, ON), 2024 - 2025<br>
+  <em>Valencia College</em> (Orlando, FL), 2025 - Present <br>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## Projects
 
-🔥 **Back-end**:  
-   - 🔧 **Java**, **C**, **C++**, **SQL Server**, **PHP**
+(*In progress*)
 
-🚀 **Frameworks & Tools**:
+## Tech Stack
 
-   - ⚙️ **Spring**, **Swing**, **Jackson**, **OpenAI**, **JPA**  
-   - 🔗 **APIs REST**, **Git**  
-   - 🛢️ **Database Design and Development**, **WordPress**, **Microsoft Access**, **SQLite**, **Adobe Photoshop**
+### Languages
+ - **Java**
+ - **C** / **C++**
+ - **Python**
+ - **SQL**
 
-🖥️ **Front-end**:  
-   - 🌐 **HTML**, **CSS**, **JavaScript**, **TypeScript**
+### Front-end  
 
-🌎 **Languages**:  
-   - 🇧🇷 **Portuguese** (Native)  
-   - 🇺🇸 **English** (Fluent)  
-   - 🇪🇸 **Spanish** (Intermediate)  
+   - **JavaScript**
+   - **HTML** / **CSS**
 
----
+### Back-end 
 
-💡 **Seeking for new challenges!**  
+   - **Spring Boot**
+   - **REST APIs**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+### Tools
+
+   - **Git**
+   - **Docker**
+   - **Linux**
+   - **MySQL** / **PostgreSQL**
+
+## Spoken Languages
+   - **Portuguese** (Native)  
+   - **English** (Fluent)  
+   - **Spanish** (Intermediate)
